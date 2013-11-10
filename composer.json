@@ -1,0 +1,25 @@
+{
+	"name": "marten/nette-idn",
+	"type": "library",
+	"description": "Nette helpers and extension for IDN server",
+	"keywords": ["images", "cdn"],
+	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
+	"authors": [
+		{
+			"name": "Martin Malek",
+			"homepage": "http://www.marten-online.com"
+		}
+	],
+	"require": {
+		"php": ">=5.0.0",
+		"ext-curl": "*",
+		"ext-json": "*",
+		"nette/nette": ">=2.0.0"
+	},
+	"version": "0.1",
+	"extra": {
+		"branch-alias": {
+			"dev-master": "0.1-dev"
+		}
+	}
+}
