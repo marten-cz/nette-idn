@@ -14,7 +14,8 @@
 		"php": ">=5.0.0",
 		"ext-curl": "*",
 		"ext-json": "*",
-		"nette/nette": ">=2.0.0"
+		"nette/nette": ">=2.0.0",
+		"marten/idn": "0.1.*@dev"
 	},
 	"version": "0.1",
 	"extra": {
